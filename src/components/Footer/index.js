@@ -8,10 +8,10 @@ export default function Footer() {
       <Container>
         <footer class="app-footer">
           <span>
-            <a href="https://coreui.io">W7apps</a> © 2019
+            <a href="https://www.tecmasternet.com.br">W7apps</a> © 2019
           </span>
           <span class="ml-auto">
-            Powered by <a href="https://www.tecmasternet.com.br">Tecmaster</a>
+            Powered by <a href="https://www.tecmasternet.com.br">Tecmaster - William Robson Mendonça</a>
           </span>
         </footer>{" "}
       </Container>
